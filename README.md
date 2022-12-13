@@ -2,17 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Ada</h1>
 <h3 align="center">A passionate Backend developer from London</h3>
-<img align="right" alt="Coding" width="400" src="https://ab4ir.org/wp-content/uploads/2021/01/30cde9b2-65c2-4a5c-9fe2-4d5ffe5b2c81.gif”>
+<img align="right" alt="Coding" width="400" src="https://ab4ir.org/wp-content/uploads/2021/01/30cde9b2-65c2-4a5c-9fe2-4d5ffe5b2c81.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkrobocop&label=Profile%20views&color=0e75b6&style=flat" alt="pinkrobocop" /> </p>
 
-- 🔭 I’m currently working on [Marketing Agency Accessibilty](https://pinkrobocop.github.io/css-demo-site/)
+- 🔭 I’m currently working on making a [Marketing Agency Website More Accessible](https://pinkrobocop.github.io/css-demo-site/)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
 
 - 💬 Ask me about **Java, Python**
 
-- 📫 How to reach me **pinkrobocop@aol.com**
+- 📫 How to reach me **pinkrobocop@aol.com | +447767207413**
 
 - ⚡ Fun fact **In the next life i want to be Oprah**
 
