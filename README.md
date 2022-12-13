@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pinkrobocop@aol.com | +447767207413**
 
-- ⚡ Fun fact **In the next life i want to be Oprah**
+- ⚡ Fun fact **When i die i want to go to heaven**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
