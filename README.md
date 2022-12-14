@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Python**
 
-- 📫 How to reach me **pinkrobocop@aol.com | +447767207413**
+- 📫 How to reach me **pinkrobocop@aol.com
 
 - ⚡ Fun fact **When i die i want to go to heaven**
 
