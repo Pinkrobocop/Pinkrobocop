@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkrobocop&label=Profile%20views&color=0e75b6&style=flat" alt="pinkrobocop" /> </p>
 
-- 🔭 Recent Projects: [Password Generator](https://pinkrobocop.github.io/M5C/) [Marketing Agency](https://pinkrobocop.github.io/css-demo-site/) [Resume Project](https://pinkrobocop.github.io/Resume-project/) [Analyse Financial Records](https://pinkrobocop.github.io/New-Finance-Console/) [BootStrap Portfolio](https://pinkrobocop.github.io/Adaeze-Bootstrap-Portfolio/) 
+- 🔭 Recent Projects: 1. [Password Generator](https://pinkrobocop.github.io/M5C/) 2. [Marketing Agency](https://pinkrobocop.github.io/css-demo-site/) 3. [Resume Project](https://pinkrobocop.github.io/Resume-project/) 4. [Analyse Financial Records](https://pinkrobocop.github.io/New-Finance-Console/) 5. [BootStrap Portfolio](https://pinkrobocop.github.io/Adaeze-Bootstrap-Portfolio/) 
 
 - 🌱 I’m at a bootcamp (Skills For Life [edx]) learning **HTML, CSS, JavaScript, React**
 
